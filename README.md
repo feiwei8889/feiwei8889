@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm feiwei8889 👋
 
-<!--
-**feiwei8889/feiwei8889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Featured Project
 
-Here are some ideas to get you started:
+### [readmegen](https://github.com/feiwei8889/readmegen) — Beautiful README Generator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Generate professional README.md files in seconds with 12 templates!
+
+```bash
+pip install git+https://github.com/feiwei8889/readmegen.git
+readmegen
+```
+
+✨ **Features:** 12 Professional Templates • Interactive Rich CLI • Auto-generated Badges • Multi-language (中文)
+
+[⭐ Star on GitHub](https://github.com/feiwei8889/readmegen) • [💖 Support on Ko-fi ($5)](https://ko-fi.com/feiwei8889)
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+⭐️ From [feiwei8889](https://github.com/feiwei8889)
